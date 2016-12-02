@@ -1,0 +1,23 @@
+{
+  "name": "mount-koa2-routes",
+  "version": "0.1.0",
+  "description": "auto mount koa2 routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mount",
+    "koa2",
+    "routes"
+  ],
+  "author": "liyankai",
+  "license": "ISC",
+  "dependencies": {
+    "koa-router": "^7.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lk125454242/mount-koa2-routers.git"
+  }
+}
